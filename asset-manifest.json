@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Bailey/static/css/main.e2689659.css",
-    "main.js": "/Bailey/static/js/main.f27e9bb9.js",
+    "main.js": "/Bailey/static/js/main.76d52413.js",
     "static/js/377.55dd8f43.chunk.js": "/Bailey/static/js/377.55dd8f43.chunk.js",
     "static/media/bestmovies.png": "/Bailey/static/media/bestmovies.87b09627e1ceaf6469e8.png",
     "static/media/timeslip.png": "/Bailey/static/media/timeslip.b2773a9d626f671a59ec.png",
@@ -13,11 +13,11 @@
     "service-worker.js": "/Bailey/service-worker.js",
     "index.html": "/Bailey/index.html",
     "main.e2689659.css.map": "/Bailey/static/css/main.e2689659.css.map",
-    "main.f27e9bb9.js.map": "/Bailey/static/js/main.f27e9bb9.js.map",
+    "main.76d52413.js.map": "/Bailey/static/js/main.76d52413.js.map",
     "377.55dd8f43.chunk.js.map": "/Bailey/static/js/377.55dd8f43.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e2689659.css",
-    "static/js/main.f27e9bb9.js"
+    "static/js/main.76d52413.js"
   ]
 }
