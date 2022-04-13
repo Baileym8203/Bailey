@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Bailey/static/css/main.e2689659.css",
+    "main.js": "/Bailey/static/js/main.f27e9bb9.js",
+    "static/js/377.55dd8f43.chunk.js": "/Bailey/static/js/377.55dd8f43.chunk.js",
+    "static/media/bestmovies.png": "/Bailey/static/media/bestmovies.87b09627e1ceaf6469e8.png",
+    "static/media/timeslip.png": "/Bailey/static/media/timeslip.b2773a9d626f671a59ec.png",
+    "static/media/must.jpg": "/Bailey/static/media/must.4cfa1437b2a6527a59c0.jpg",
+    "static/media/codeeasy.png": "/Bailey/static/media/codeeasy.4ed9d34f0ff22c310ded.png",
+    "static/media/pokidex.png": "/Bailey/static/media/pokidex.0ce02ad672eb5c2a1ef5.png",
+    "static/media/movieapi.png": "/Bailey/static/media/movieapi.3a6adefd3cc2c0e2c7b1.png",
+    "static/media/linkedin.png": "/Bailey/static/media/linkedin.40f603ad1a7361a98608.png",
+    "service-worker.js": "/Bailey/service-worker.js",
+    "index.html": "/Bailey/index.html",
+    "main.e2689659.css.map": "/Bailey/static/css/main.e2689659.css.map",
+    "main.f27e9bb9.js.map": "/Bailey/static/js/main.f27e9bb9.js.map",
+    "377.55dd8f43.chunk.js.map": "/Bailey/static/js/377.55dd8f43.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2689659.css",
+    "static/js/main.f27e9bb9.js"
+  ]
+}
