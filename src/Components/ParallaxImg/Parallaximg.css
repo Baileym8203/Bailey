@@ -1,0 +1,36 @@
+.--background-image {
+  height: 1600px;
+  margin-top: 0px;
+}
+
+/* banner media query's */
+
+@media all and (max-width: 1440px) {
+  /* highest pixel count! */
+  .--background-image {
+    height: 1300px;
+    margin-top: 0px;
+  }
+}
+
+@media all and (max-width: 1150px) {
+  .--background-image {
+    height: 1150px;
+    margin-top: 0px;
+  }
+}
+
+@media all and (max-width: 850px) {
+  .--background-image {
+    height: 850px;
+    margin-top: 0px;
+  }
+}
+
+@media all and (max-width: 571px) {
+  /* lowest pixel count! */
+  .--background-image {
+    height: 700px;
+    margin-top: 0px;
+  }
+}
