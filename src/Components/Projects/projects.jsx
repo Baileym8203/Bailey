@@ -52,10 +52,13 @@ return (
           purus ut faucibus pulvinar. Volutpat lacus laoreet non curabitur
           gravida arcu. Dui ut ornare lectus sit amet est. Ut sem nulla pharetra
         </p>
+        <a href="https://bestmoviescentral.netlify.app/" target="_blank">
+        <Button variant="light" className="mt-1">Check It Out</Button>
+        </a>
       </Col>
       <Col lg={6} style={{ marginTop: "150px", direction: "rtl" }}>
         <h2 className="float-right" style={{ fontWeight: 650 }}>
-          Best Movies Central API
+          Best Movies API
         </h2>
         <p>
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
@@ -68,6 +71,9 @@ return (
           purus ut faucibus pulvinar. Volutpat lacus laoreet non curabitur
           gravida arcu. Dui ut ornare lectus sit amet est. Ut sem nulla pharetra
         </p>
+        <a href="https://bestmoviecentral.herokuapp.com/" target="_blank">
+        <Button variant="light" className="mt-1">Check It Out</Button>
+        </a>
       </Col>
       <Col lg={6} style={{ marginTop: "100px", padding: "20px", marginBottom: "100px" }}>
         <Card className="text-center">
@@ -94,7 +100,7 @@ return (
               Some quick example text to build on the card title and make up the
               bulk of the card's content.
             </Card.Text>
-            <Button variant="primary">See on Github</Button>
+            <Button variant="secondary">See on Github</Button>
           </Card.Body>
         </Card>
       </Col>
@@ -106,7 +112,7 @@ return (
               Some quick example text to build on the card title and make up the
               bulk of the card's content.
             </Card.Text>
-            <Button variant="primary">See On Github</Button>
+            <Button variant="secondary">See On Github</Button>
           </Card.Body>
         </Card>
       </Col>
@@ -118,7 +124,7 @@ return (
               Some quick example text to build on the card title and make up the
               bulk of the card's content.
             </Card.Text>
-            <Button variant="primary">See On Github</Button>
+            <Button variant="secondary">See On Github</Button>
           </Card.Body>
         </Card>
       </Col>
@@ -132,7 +138,7 @@ return (
               Some quick example text to build on the card title and make up the
               bulk of the card's content.
             </Card.Text>
-            <Button variant="primary">See on Github</Button>
+            <Button variant="secondary">See on Netlify</Button>
           </Card.Body>
         </Card>
       </Col>
@@ -144,7 +150,7 @@ return (
               Some quick example text to build on the card title and make up the
               bulk of the card's content.
             </Card.Text>
-            <Button variant="primary">See On Github</Button>
+            <Button variant="secondary">See On Github</Button>
           </Card.Body>
         </Card>
       </Col>
@@ -156,7 +162,7 @@ return (
               Some quick example text to build on the card title and make up the
               bulk of the card's content.
             </Card.Text>
-            <Button variant="primary">See On Github</Button>
+            <Button variant="secondary">See On Netlify</Button>
           </Card.Body>
         </Card>
       </Col>

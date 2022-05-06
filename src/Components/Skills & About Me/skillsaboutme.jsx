@@ -9,7 +9,7 @@ const now = 60
 
 return (
   <Container fluid style={{ margin: 0, padding: 0, marginBottom: "10px" }}>
-    <Row style={{ margin: 0, padding: 0, justifyContent: "center" }}>
+    <Row style={{ display: "flex"}}>
       <h1
         className="text-center"
         style={{ marginTop: "100px", fontWeight: 650 }}
@@ -20,14 +20,14 @@ return (
         ------ <span style={{ color: "rgb(175, 77, 20)" }}>In Depth Me</span>{" "}
         ------
       </h4>
-      <Col lg={5}>
+      <Col lg={12} style={{display: "flex", justifyContent: "center"}}>
         <Image
           fluid
           style={{ marginTop: "100px", padding: "20px" }}
           src={Code}
         ></Image>
       </Col>
-      <Col className=" Col --about-me" lg={7}>
+      <Col className=" Col --about-me text-center" lg={12}>
         <h3>
           {" "}
           ---{" "}
@@ -87,15 +87,15 @@ return (
         </p>
       </Col>
     </Row>
-    <Row style={{ margin: 0, padding: 0, justifyContent: "center" }}>
-      <Col lg={5}>
+    <Row style={{ margin: 0, padding: 0,}}>
+      <Col lg={12} style={{display: "flex", justifyContent: "center"}}>
         <Image
           fluid
           style={{ marginTop: "100px", padding: "20px" }}
           src={Problem}
         ></Image>
       </Col>
-      <Col className=" Col --about-me" lg={7}>
+      <Col className=" Col --about-me text-center" lg={12}>
         <h3>
           {" "}
           ---{" "}

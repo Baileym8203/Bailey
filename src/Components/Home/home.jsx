@@ -7,6 +7,7 @@ import Projects from '../Projects/projects';
 import SkillsAboutMe from '../Skills & About Me/skillsaboutme';
 import Contact from '../Contact/contact';
 import Services from '../Services/services';
+import Resume from '../../resume.PDF'
 
 import Mustafar from '../../Images/must4.jpg'
 
@@ -22,7 +23,7 @@ const Home = () => {
               Web Developer
             </h1>
             <h1></h1>
-            <Nav.Link className="nav --intro-cv">See CV</Nav.Link>
+            <Nav.Link className="nav --intro-cv" href={Resume} target="_blank">See CV</Nav.Link>
             <h1 style={{ position: "absolute" }}></h1>
           </ParallaxImg>
         </Parallax>
