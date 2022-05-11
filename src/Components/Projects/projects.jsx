@@ -14,6 +14,7 @@ const Projects = () => {
 
 return (
   <Container
+  id="projects"
     fluid
     style={{
       margin: "0px",

@@ -1,5 +1,5 @@
 import react from 'react';
-import {Container, Col, Row, Image, Accordion} from 'react-bootstrap';
+import {Container, Col, Row, Image, Accordion, ProgressBar} from 'react-bootstrap';
 import CodeLogo from '../../Images/codeLogo.png'
 import Brush from '../../Images/brush.png'
 import './services.css'
@@ -8,6 +8,7 @@ import './services.css'
 const Services = () => {
 return (
   <Container
+  id="services"
     fluid
     style={{ backgroundColor: "#292929", color: "white", marginTop: "150px" }}
   >
@@ -89,6 +90,14 @@ return (
         ------ <span style={{ color: "rgb(175, 77, 20)" }}>Experience</span>{" "}
         ------
       </h4>
+      <Col lg={12} style={{marginBottom: "100px"}}>
+  <ProgressBar className='mt-2' variant="success" now={90} label="HTML" />
+  <ProgressBar className='mt-2' variant="success" now={75} label="CSS" />
+  <ProgressBar className='mt-2' variant="success" now={70} label="V JavaScript" />
+  <ProgressBar className='mt-2' variant="danger" now={80} label="MERN" />
+  <ProgressBar className='mt-2' variant="danger" now={60} label="MEAN" />
+  <ProgressBar className='mt-2' variant="warning" now={55} label="jQuery" />
+  </Col>
     </Row>
   </Container>
 );

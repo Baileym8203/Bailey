@@ -8,7 +8,7 @@ const SkillsAboutMe = () => {
 const now = 60
 
 return (
-  <Container fluid style={{ margin: 0, padding: 0, marginBottom: "10px" }}>
+  <Container id="about" fluid style={{ margin: 0, padding: 0, marginBottom: "10px" }}>
     <Row style={{ display: "flex"}}>
       <h1
         className="text-center"

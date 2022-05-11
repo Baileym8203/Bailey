@@ -6,6 +6,7 @@ import LinkedIn from '../../Images/linkedin.png'
 const Contact = () => {
 return (
   <Container
+  id="contact"
     fluid
     style={{ margin: "0px", padding: 0, backgroundColor: "#292929" }}
   >
@@ -26,7 +27,7 @@ return (
     </Row>
     <Row>
       <Col lg={5} style={{ display: "flex", justifyContent: "center" }}>
-        <a href="https://github.com/Baileym8203?tab=repositories">
+        <a href="https://github.com/Baileym8203?tab=repositories" target="_blank">
           <Image
             fluid
             src={Github}
@@ -40,7 +41,7 @@ return (
         </a>
       </Col>
       <Col lg={5} style={{ display: "flex", justifyContent: "center" }}>
-        <a href="https://www.linkedin.com/in/bailey-mashoreba2111177/">
+        <a href="https://www.linkedin.com/in/bailey-mashoreba2111177/" target="_blank">
           <Image
             fluid
             src={LinkedIn}
