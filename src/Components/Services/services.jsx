@@ -91,12 +91,12 @@ return (
         ------
       </h4>
       <Col lg={12} style={{marginBottom: "100px"}}>
-  <ProgressBar className='mt-2' variant="success" now={90} label="HTML" />
-  <ProgressBar className='mt-2' variant="success" now={75} label="CSS" />
-  <ProgressBar className='mt-2' variant="success" now={70} label="V JavaScript" />
-  <ProgressBar className='mt-2' variant="danger" now={80} label="MERN" />
-  <ProgressBar className='mt-2' variant="danger" now={60} label="MEAN" />
-  <ProgressBar className='mt-2' variant="warning" now={55} label="jQuery" />
+  <ProgressBar style={{borderRadius: "0%"}} className='mt-2' variant="dark" now={90} label="HTML" />
+  <ProgressBar style={{borderRadius: "0%"}} className='mt-2' variant="dark" now={75} label="CSS" />
+  <ProgressBar style={{borderRadius: "0%"}} className='mt-2' variant="dark" now={70} label="V JavaScript" />
+  <ProgressBar style={{borderRadius: "0%"}} className='mt-2' variant="dark" now={80} label="MERN" />
+  <ProgressBar style={{borderRadius: "0%"}} className='mt-2' variant="dark" now={60} label="MEAN" />
+  <ProgressBar style={{borderRadius: "0%"}} className='mt-2' variant="dark" now={55} label="jQuery" />
   </Col>
     </Row>
   </Container>
