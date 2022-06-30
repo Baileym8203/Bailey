@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Bailey/static/css/main.49208cff.css",
-    "main.js": "/Bailey/static/js/main.2f95508f.js",
+    "main.js": "/Bailey/static/js/main.11df8347.js",
     "static/js/377.55dd8f43.chunk.js": "/Bailey/static/js/377.55dd8f43.chunk.js",
     "static/media/must4.jpg": "/Bailey/static/media/must4.1a764c1244b39e516cc7.jpg",
     "static/media/bestmovies.png": "/Bailey/static/media/bestmovies.87b09627e1ceaf6469e8.png",
@@ -24,11 +24,11 @@
     "static/media/codeLogo.png": "/Bailey/static/media/codeLogo.df88cb63a3203bffb81b.png",
     "index.html": "/Bailey/index.html",
     "main.49208cff.css.map": "/Bailey/static/css/main.49208cff.css.map",
-    "main.2f95508f.js.map": "/Bailey/static/js/main.2f95508f.js.map",
+    "main.11df8347.js.map": "/Bailey/static/js/main.11df8347.js.map",
     "377.55dd8f43.chunk.js.map": "/Bailey/static/js/377.55dd8f43.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.49208cff.css",
-    "static/js/main.2f95508f.js"
+    "static/js/main.11df8347.js"
   ]
 }
