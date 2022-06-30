@@ -40,13 +40,11 @@ return (
               ></Image>
             </Accordion.Header>
             <Accordion.Body style={{ color: "black" }}>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-              eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-              enim ad minim veniam, quis nostrud exercitation ullamco laboris
-              nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-              reprehenderit in voluptate velit esse cillum dolore eu fugiat
-              nulla pariatur. Excepteur sint occaecat cupidatat non proident,
-              sunt in culpa qui officia deserunt mollit anim id est laborum.
+              I am a front-end web developer that can develop applications in
+              tech stacks such as MERN and MEAN. I can also create applications
+              using jQuery and vanilla Js if you require it. I can also test and
+              run a back-end with full-stack knowledge. I can create apps in mobile
+              as well using React Native to my employers client needs.
             </Accordion.Body>
           </Accordion.Item>
         </Accordion>
@@ -67,13 +65,13 @@ return (
               ></Image>
             </Accordion.Header>
             <Accordion.Body style={{ color: "black" }}>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-              eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-              enim ad minim veniam, quis nostrud exercitation ullamco laboris
-              nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-              reprehenderit in voluptate velit esse cillum dolore eu fugiat
-              nulla pariatur. Excepteur sint occaecat cupidatat non proident,
-              sunt in culpa qui officia deserunt mollit anim id est laborum.
+              I can create mockups and or wireframes of an app that will give the best
+              user experiences posible with my insights on UX/UI design. I can also give
+              the best contrast ratios for certain color choices with the different
+              insights in different calibrated screen color contrast ratios via SRGB or
+              Adobe RGB. I can also implement accessibility features for those who have
+              red color blindness issues and or need screen readers to help them enjoy
+              the same content as all users!
             </Accordion.Body>
           </Accordion.Item>
         </Accordion>
@@ -91,12 +89,12 @@ return (
         ------
       </h4>
       <Col lg={12} style={{marginBottom: "100px"}}>
-  <ProgressBar style={{borderRadius: "0%"}} className='mt-2' variant="dark" now={90} label="HTML" />
-  <ProgressBar style={{borderRadius: "0%"}} className='mt-2' variant="dark" now={75} label="CSS" />
-  <ProgressBar style={{borderRadius: "0%"}} className='mt-2' variant="dark" now={70} label="V JavaScript" />
-  <ProgressBar style={{borderRadius: "0%"}} className='mt-2' variant="dark" now={80} label="MERN" />
-  <ProgressBar style={{borderRadius: "0%"}} className='mt-2' variant="dark" now={60} label="MEAN" />
-  <ProgressBar style={{borderRadius: "0%"}} className='mt-2' variant="dark" now={55} label="jQuery" />
+  <ProgressBar style={{borderRadius: "0%"}} className='mt-2' variant="danger" now={90} label="HTML" />
+  <ProgressBar style={{borderRadius: "0%"}} className='mt-2' variant="success" now={75} label="CSS" />
+  <ProgressBar style={{borderRadius: "0%"}} className='mt-2' variant="warning" now={70} label="V JavaScript" />
+  <ProgressBar style={{borderRadius: "0%"}} className='mt-2' variant="info" now={80} label="MERN" />
+  <ProgressBar style={{borderRadius: "0%"}} className='mt-2' variant="info" now={60} label="MEAN" />
+  <ProgressBar style={{borderRadius: "0%"}} className='mt-2' variant="warning" now={55} label="jQuery" />
   </Col>
     </Row>
   </Container>
