@@ -144,7 +144,10 @@ With these, I also made the app fully responsive. Which will allow the users to 
         <p> In the end, I achieved my goal through pure determination and learning through the mistakes I made. With the help of peer programming with my mentor, this was made easier as I was able to get an industry expert's eyes on my mistakes to enlighten them and help me jump over the hurdles necessary to learn from my mistakes. The most difficult part of the project was definitely the UI and Back-End API. As those were the most critical for my app to function they were definitely hard. But with my determination and problem-solving I was able to get past them and see how they aren’t as hard as they once seemed. If I could do this project all over again I'd try to see the overall picture first and worry less about sophisticated design. I’d take a step back and make everything a lot more simple, and neat, and comment more on code snippets.
         </p>
         <a href="https://bestmoviescentral.netlify.app/" target="_blank">
-        <Button variant="light" className="mt-1">Check It Out</Button>
+        <Button variant="light" className="mt-1 me-5">See Live!</Button>
+        </a>
+        <a href="https://github.com/Baileym8203/myFlix-client" target="_blank">
+        <Button variant="light" className="mt-1">See Code</Button>
         </a>
       </Col>
       <Col lg={12} style={{ marginTop: "60px", textAlign: "center" }}>
@@ -165,7 +168,10 @@ With these, I also made the app fully responsive. Which will allow the users to 
           to use the API within the directory. 
         </p>
         <a href="https://bestmoviecentral.herokuapp.com/" target="_blank">
-        <Button variant="light" className="mt-1 mb-5">Check It Out</Button>
+        <Button variant="light" className="mt-1 mb-5 me-5">See Live!</Button>
+        </a>
+        <a href="https://github.com/Baileym8203/movie_api" target="_blank">
+        <Button variant="light" className="mt-1 mb-5">See Code!</Button>
         </a>
       </Col>
     </Row>
@@ -193,7 +199,12 @@ With these, I also made the app fully responsive. Which will allow the users to 
             </Card.Text>
             <h3 style={{ fontWeight: 650 }}>Main Tools</h3>
             <Card.Text>React, Firebase, Bootstrap, Recharts, PWA </Card.Text>
-            <Button variant="secondary">See on Github</Button>
+            <a href="https://baileym8203.github.io/Visual/" target="_blank">
+            <Button className="me-4" variant="secondary">See Live!</Button>
+            </a>
+            <a href="https://github.com/Baileym8203/Visual" target="_blank">
+            <Button variant="secondary">See Code!</Button>
+            </a>
           </Card.Body>
         </Card>
       </Col>
@@ -209,7 +220,12 @@ With these, I also made the app fully responsive. Which will allow the users to 
             </Card.Text>
             <h3 style={{ fontWeight: 650 }}>Main Tools</h3>
             <Card.Text>jQuery, Bootstrap </Card.Text>
-            <Button variant="secondary">See On Github</Button>
+            <a href="https://baileym8203.github.io/simple-js-app/" target="_blank">
+            <Button className="me-4" variant="secondary">See Live!</Button>
+            </a>
+            <a href="https://github.com/Baileym8203/simple-js-app" target="_blank">
+            <Button variant="secondary">See Code!</Button>
+            </a>
           </Card.Body>
         </Card>
       </Col>
@@ -227,7 +243,9 @@ With these, I also made the app fully responsive. Which will allow the users to 
             </Card.Text>
             <h3 style={{ fontWeight: 650 }}>Main Tools</h3>
             <Card.Text>React Native, Gifted Chat, Firebase </Card.Text>
-            <Button variant="secondary">See On Github</Button>
+            <a href="https://github.com/Baileym8203/hello-world" target="_blank">
+            <Button variant="secondary">See Code!</Button>
+            </a>
           </Card.Body>
         </Card>
       </Col>
@@ -246,7 +264,12 @@ With these, I also made the app fully responsive. Which will allow the users to 
             </Card.Text>
             <h3 style={{ fontWeight: 650 }}>Main Tools</h3>
             <Card.Text>React, Bootstrap, Node js, AOS, Netlify </Card.Text>
-            <Button variant="secondary">See on Netlify</Button>
+            <a href="https://thirsty-leakey-78068d.netlify.app/" target="_blank">
+            <Button className="me-4" variant="secondary">See Live!</Button>
+            </a>
+            <a href="https://github.com/Baileym8203/react-NFT" target="_blank">
+            <Button variant="secondary">See Code!</Button>
+            </a>
           </Card.Body>
         </Card>
       </Col>
@@ -263,7 +286,12 @@ With these, I also made the app fully responsive. Which will allow the users to 
             </Card.Text>
             <h3 style={{ fontWeight: 650 }}>Main Tools</h3>
             <Card.Text>React, Bootstrap, Recharts, PWA </Card.Text>
-            <Button variant="secondary">See On Github</Button>
+            <a href="https://baileym8203.github.io/meets/" target="_blank">
+            <Button className="me-4" variant="secondary">See Live!</Button>
+            </a>
+            <a href="https://github.com/Baileym8203/meets" target="_blank">
+            <Button variant="secondary">See Code!</Button>
+            </a>
           </Card.Body>
         </Card>
       </Col>
@@ -280,7 +308,12 @@ With these, I also made the app fully responsive. Which will allow the users to 
             </Card.Text>
             <h3 style={{ fontWeight: 650 }}>Main Tools</h3>
             <Card.Text>Vanilla js, Netlify </Card.Text>
-            <Button variant="secondary">See On Netlify</Button>
+            <a href="https://idyllic-choux-548ccd.netlify.app/" target="_blank">
+            <Button className="me-4" variant="secondary">See Live!</Button>
+            </a>
+            <a href="https://github.com/Baileym8203/to-do-list" target="_blank">
+            <Button variant="secondary">See Code!</Button>
+            </a>
           </Card.Body>
         </Card>
       </Col>

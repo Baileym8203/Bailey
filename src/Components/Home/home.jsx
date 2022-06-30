@@ -23,7 +23,7 @@ const Home = () => {
               Web Developer
             </h1>
             <h1></h1>
-            <Nav.Link className="nav --intro-cv" href={Resume} target="_blank">See CV</Nav.Link>
+            <Nav.Link className="nav --intro-cv" href={Resume} target="_blank">See Resume</Nav.Link>
             <h1 style={{ position: "absolute" }}></h1>
           </ParallaxImg>
         </Parallax>

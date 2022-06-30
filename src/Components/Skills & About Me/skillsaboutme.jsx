@@ -60,7 +60,7 @@ return (
           src={Problem}
         ></Image>
       </Col>
-      <Col className=" Col --about-me text-center" lg={12}>
+      <Col style={{marginBottom: "25px"}} className=" Col --about-me text-center" lg={12}>
         <h3>
           {" "}
           ---{" "}
