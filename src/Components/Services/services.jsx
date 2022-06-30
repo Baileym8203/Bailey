@@ -12,6 +12,26 @@ return (
     fluid
     style={{ backgroundColor: "#292929", color: "white", marginTop: "150px" }}
   >
+    <Row style={{ margin: 0, display: "flex", justifyContent: "center" }}>
+      <h1
+        className="text-center"
+        style={{ marginTop: "50px", fontWeight: 650 }}
+      >
+        Skills
+      </h1>
+      <h4 style={{ marginBottom: "100px" }} className="text-center">
+        ------ <span style={{ color: "rgb(175, 77, 20)" }}>Experience</span>{" "}
+        ------
+      </h4>
+      <Col lg={12} style={{marginBottom: "100px"}}>
+  <ProgressBar style={{borderRadius: "0%"}} className='mt-2' variant="danger" now={90} label="HTML" />
+  <ProgressBar style={{borderRadius: "0%"}} className='mt-2' variant="success" now={75} label="CSS" />
+  <ProgressBar style={{borderRadius: "0%"}} className='mt-2' variant="warning" now={70} label="V JavaScript" />
+  <ProgressBar style={{borderRadius: "0%"}} className='mt-2' variant="info" now={80} label="MERN" />
+  <ProgressBar style={{borderRadius: "0%"}} className='mt-2' variant="info" now={60} label="MEAN" />
+  <ProgressBar style={{borderRadius: "0%"}} className='mt-2' variant="warning" now={55} label="jQuery" />
+  </Col>
+    </Row>
     <Row style={{ margin: 0, display: "flex", justifyContent: "space-around" }}>
       <h1
         className="text-center"
@@ -76,26 +96,6 @@ return (
           </Accordion.Item>
         </Accordion>
       </Col>
-    </Row>
-    <Row style={{ margin: 0, display: "flex", justifyContent: "center" }}>
-      <h1
-        className="text-center"
-        style={{ marginTop: "50px", fontWeight: 650 }}
-      >
-        Skills
-      </h1>
-      <h4 style={{ marginBottom: "100px" }} className="text-center">
-        ------ <span style={{ color: "rgb(175, 77, 20)" }}>Experience</span>{" "}
-        ------
-      </h4>
-      <Col lg={12} style={{marginBottom: "100px"}}>
-  <ProgressBar style={{borderRadius: "0%"}} className='mt-2' variant="danger" now={90} label="HTML" />
-  <ProgressBar style={{borderRadius: "0%"}} className='mt-2' variant="success" now={75} label="CSS" />
-  <ProgressBar style={{borderRadius: "0%"}} className='mt-2' variant="warning" now={70} label="V JavaScript" />
-  <ProgressBar style={{borderRadius: "0%"}} className='mt-2' variant="info" now={80} label="MERN" />
-  <ProgressBar style={{borderRadius: "0%"}} className='mt-2' variant="info" now={60} label="MEAN" />
-  <ProgressBar style={{borderRadius: "0%"}} className='mt-2' variant="warning" now={55} label="jQuery" />
-  </Col>
     </Row>
   </Container>
 );

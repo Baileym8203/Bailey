@@ -37,53 +37,18 @@ return (
           ---{" "}
         </h3>
         <p>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-          Sollicitudin aliquam ultrices sagittis orci a scelerisque purus
-          semper. Morbi non arcu risus quis varius quam quisque. Porta lorem
-          mollis aliquam ut porttitor leo. Arcu cursus vitae congue mauris
-          rhoncus. Elementum integer enim neque volutpat ac tincidunt. Enim
-          tortor at auctor urna nunc id cursus metus aliquam. Id consectetur
-          purus ut faucibus pulvinar. Volutpat lacus laoreet non curabitur
-          gravida arcu. Dui ut ornare lectus sit amet est. Ut sem nulla pharetra
-          diam sit. Tincidunt dui ut ornare lectus sit amet est placerat in.
-          Interdum velit laoreet id donec ultrices tincidunt arcu non sodales.
-          Vitae ultricies leo integer malesuada. Neque laoreet suspendisse
-          interdum consectetur libero id faucibus nisl tincidunt. Tempor orci eu
-          lobortis elementum nibh tellus molestie nunc non. Leo urna molestie at
-          elementum eu. Suspendisse interdum consectetur libero id faucibus nisl
-          tincidunt. Vestibulum rhoncus est pellentesque elit ullamcorper. Justo
-          eget magna fermentum iaculis eu non diam phasellus vestibulum. Id nibh
-          tortor id aliquet lectus. Diam maecenas ultricies mi eget mauris.
-          Adipiscing vitae proin sagittis nisl rhoncus mattis. Molestie a
-          iaculis at erat pellentesque adipiscing commodo elit. Sit amet mauris
-          commodo quis imperdiet massa tincidunt nunc pulvinar. Malesuada
-          pellentesque elit eget gravida. Senectus et netus et malesuada fames
-          ac turpis. Sit amet porttitor eget dolor morbi non arcu risus.
-          Facilisis leo vel fringilla est ullamcorper eget nulla facilisi etiam.
-          Nunc pulvinar sapien et ligula ullamcorper malesuada proin libero.
-          Risus commodo viverra maecenas accumsan lacus vel facilisis volutpat.
-          Malesuada fames ac turpis egestas integer eget aliquet nibh. Nulla
-          facilisi morbi tempus iaculis urna id volutpat lacus laoreet. Ac felis
-          donec et odio pellentesque. Urna condimentum mattis pellentesque id
-          nibh tortor. Non consectetur a erat nam at lectus. Aliquam sem et
-          tortor consequat. Leo vel fringilla est ullamcorper eget nulla
-          facilisi. Dui sapien eget mi proin sed libero enim sed. Hac habitasse
-          platea dictumst vestibulum rhoncus est pellentesque elit ullamcorper.
-          Mauris augue neque gravida in fermentum. In nisl nisi scelerisque eu
-          ultrices vitae auctor eu. Tortor posuere ac ut consequat semper
-          viverra. Viverra aliquet eget sit amet tellus cras adipiscing enim.
-          Purus in massa tempor nec feugiat nisl pretium fusce. Integer eget
-          aliquet nibh praesent tristique. Sed velit dignissim sodales ut eu sem
-          integer vitae justo. Aenean vel elit scelerisque mauris. Mattis enim
-          ut tellus elementum sagittis. Vulputate odio ut enim blandit. Purus
-          faucibus ornare suspendisse sed nisi lacus sed viverra. Vel elit
-          scelerisque mauris pellentesque pulvinar. Condimentum vitae sapien
-          pellentesque habitant morbi tristique. Semper viverra nam libero justo
-          laoreet sit amet cursus sit. Porttitor lacus luctus accumsan tortor.
-          Quam nulla porttitor massa id neque aliquam vestibulum morbi. Risus
-          nec feugiat in fermentum posuere urna. Scelerisque eu ultrices vitae
-          auctor eu. Condimentum mattis
+          Hello, I am Bailey Mashore! I learned about programming when I was 9 years
+          old watching a new movie at the time in 2012 Tron Legacy. It opened my
+          perspective to the idea of command lines and a word of programs. After a
+          couple of years once I turned 15 I started playing around with Python. I
+          ended up getting all the way to loops before stopping and trying other
+          things. When I turned 18 however I wanted to decide what I wanted to do
+          as we all need to, and I loved problem-solving through high school. This
+          made me think back to when I was playing around with Python, so I decided
+          to give code another chance. This was the best decision I’ve ever made
+          because the rest is history! Before I knew it I was in love with the idea
+          of always learning more and driving to become better and better. This is
+          how I came to be my favorite thing I could have ever asked for!
         </p>
       </Col>
     </Row>
@@ -105,53 +70,19 @@ return (
           ---{" "}
         </h3>
         <p>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-          Sollicitudin aliquam ultrices sagittis orci a scelerisque purus
-          semper. Morbi non arcu risus quis varius quam quisque. Porta lorem
-          mollis aliquam ut porttitor leo. Arcu cursus vitae congue mauris
-          rhoncus. Elementum integer enim neque volutpat ac tincidunt. Enim
-          tortor at auctor urna nunc id cursus metus aliquam. Id consectetur
-          purus ut faucibus pulvinar. Volutpat lacus laoreet non curabitur
-          gravida arcu. Dui ut ornare lectus sit amet est. Ut sem nulla pharetra
-          diam sit. Tincidunt dui ut ornare lectus sit amet est placerat in.
-          Interdum velit laoreet id donec ultrices tincidunt arcu non sodales.
-          Vitae ultricies leo integer malesuada. Neque laoreet suspendisse
-          interdum consectetur libero id faucibus nisl tincidunt. Tempor orci eu
-          lobortis elementum nibh tellus molestie nunc non. Leo urna molestie at
-          elementum eu. Suspendisse interdum consectetur libero id faucibus nisl
-          tincidunt. Vestibulum rhoncus est pellentesque elit ullamcorper. Justo
-          eget magna fermentum iaculis eu non diam phasellus vestibulum. Id nibh
-          tortor id aliquet lectus. Diam maecenas ultricies mi eget mauris.
-          Adipiscing vitae proin sagittis nisl rhoncus mattis. Molestie a
-          iaculis at erat pellentesque adipiscing commodo elit. Sit amet mauris
-          commodo quis imperdiet massa tincidunt nunc pulvinar. Malesuada
-          pellentesque elit eget gravida. Senectus et netus et malesuada fames
-          ac turpis. Sit amet porttitor eget dolor morbi non arcu risus.
-          Facilisis leo vel fringilla est ullamcorper eget nulla facilisi etiam.
-          Nunc pulvinar sapien et ligula ullamcorper malesuada proin libero.
-          Risus commodo viverra maecenas accumsan lacus vel facilisis volutpat.
-          Malesuada fames ac turpis egestas integer eget aliquet nibh. Nulla
-          facilisi morbi tempus iaculis urna id volutpat lacus laoreet. Ac felis
-          donec et odio pellentesque. Urna condimentum mattis pellentesque id
-          nibh tortor. Non consectetur a erat nam at lectus. Aliquam sem et
-          tortor consequat. Leo vel fringilla est ullamcorper eget nulla
-          facilisi. Dui sapien eget mi proin sed libero enim sed. Hac habitasse
-          platea dictumst vestibulum rhoncus est pellentesque elit ullamcorper.
-          Mauris augue neque gravida in fermentum. In nisl nisi scelerisque eu
-          ultrices vitae auctor eu. Tortor posuere ac ut consequat semper
-          viverra. Viverra aliquet eget sit amet tellus cras adipiscing enim.
-          Purus in massa tempor nec feugiat nisl pretium fusce. Integer eget
-          aliquet nibh praesent tristique. Sed velit dignissim sodales ut eu sem
-          integer vitae justo. Aenean vel elit scelerisque mauris. Mattis enim
-          ut tellus elementum sagittis. Vulputate odio ut enim blandit. Purus
-          faucibus ornare suspendisse sed nisi lacus sed viverra. Vel elit
-          scelerisque mauris pellentesque pulvinar. Condimentum vitae sapien
-          pellentesque habitant morbi tristique. Semper viverra nam libero justo
-          laoreet sit amet cursus sit. Porttitor lacus luctus accumsan tortor.
-          Quam nulla porttitor massa id neque aliquam vestibulum morbi. Risus
-          nec feugiat in fermentum posuere urna. Scelerisque eu ultrices vitae
-          auctor eu. Condimentum mattis
+          When I get stumped by a problem I never throw in the towel ever! Sometimes
+          I get mad at myself just because I don’t know when to back down at times. 
+          When a problem is too big for me to solve alone I always ask for guidance 
+          or to pair-program with someone else if they have the time of course. But 
+          most of the time I’m able to conquer any problem that comes my way. Mainly 
+          because I will continue to search and test until the issue resolution comes. 
+          As when I solve that issue it feels so great knowing that I was able to save 
+          something from the brink of disaster! Not only all of that but you earn 
+          something new that you can bring to the next problem and the next one after 
+          that. Your knowledge continues to grow, so usually once you solve a hard 
+          problem you won’t have the same difficulty if you end up hitting it again 
+          in the future. 
+
         </p>
       </Col>
     </Row>
