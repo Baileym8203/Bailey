@@ -7,7 +7,7 @@ import Projects from '../Projects/projects';
 import SkillsAboutMe from '../Skills & About Me/skillsaboutme';
 import Contact from '../Contact/contact';
 import Services from '../Services/services';
-import Resume from '../../resume.PDF'
+import Resume from '../../Bailey_Mashore_Resume.PDF'
 
 import Mustafar from '../../Images/must4.jpg'
 
