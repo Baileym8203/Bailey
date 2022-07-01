@@ -15,7 +15,7 @@ const App = () => {
         className="Container --background-image"
       >
         <Routes>
-          <Route exact path="/Bailey" element={<Home />} />
+          <Route exact path="/" element={<Home />} />
         </Routes>
       </Container>
     </Router>
