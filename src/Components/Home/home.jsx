@@ -9,15 +9,13 @@ import Contact from '../Contact/contact';
 import Services from '../Services/services';
 import Resume from '../../Bailey_Mashore_Resume.PDF'
 
-import Mustafar from '../../Images/must4.jpg'
-
 
 const Home = () => {
     
     return (
       <ParallaxProvider>
         <Parallax speed={-150}>
-          <ParallaxImg imgsrc={Mustafar}>
+          <ParallaxImg imgsrc='https://images.weserv.nl/?url=webdevbaileym.com/static/media/must4.1a764c1244b39e516cc7.jpg'>
             <h1 className="h1 --intro-heading text-center">
               Hello Everyone<br></br>My Name Is Bailey Mashore<br></br>I Am A
               Web Developer
@@ -28,9 +26,9 @@ const Home = () => {
           </ParallaxImg>
         </Parallax>
         <Parallax speed={3} style={{ backgroundColor: "white" }}>
-          <Projects />
           <Services />
           <SkillsAboutMe />
+         <Projects />
           <Contact />
         </Parallax>
       </ParallaxProvider>

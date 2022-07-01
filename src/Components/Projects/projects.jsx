@@ -251,7 +251,7 @@ With these, I also made the app fully responsive. Which will allow the users to 
       </Col>
     </Row>
     <Row style={{ margin: 0 }}>
-      <Col lg={4} style={{ marginTop: "100px" }}>
+      <Col lg={4} style={{ marginTop: "100px", marginBottom: "100px" }}>
         <Card className="text-center">
           <Card.Img variant="top" src={NFT} />
           <Card.Body>
@@ -273,7 +273,7 @@ With these, I also made the app fully responsive. Which will allow the users to 
           </Card.Body>
         </Card>
       </Col>
-      <Col lg={4} style={{ marginTop: "100px" }}>
+      <Col lg={4} style={{ marginTop: "100px", marginBottom: "100px" }}>
         <Card fluid className="text-center">
           <Card.Img variant="top" src={Meet} />
           <Card.Body>
@@ -295,7 +295,7 @@ With these, I also made the app fully responsive. Which will allow the users to 
           </Card.Body>
         </Card>
       </Col>
-      <Col lg={4} style={{ marginTop: "100px" }}>
+      <Col lg={4} style={{ marginTop: "100px", marginBottom: "100px" }}>
         <Card className="text-center">
           <Card.Img variant="top" src={ToDo} />
           <Card.Body>

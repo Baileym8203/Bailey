@@ -8,7 +8,7 @@ import './services.css'
 const Services = () => {
 return (
   <Container
-  id="services"
+  id="skills"
     fluid
     style={{ backgroundColor: "#292929", color: "white", marginTop: "150px" }}
   >
@@ -24,12 +24,12 @@ return (
         ------
       </h4>
       <Col lg={12} style={{marginBottom: "100px"}}>
-  <ProgressBar style={{borderRadius: "0%"}} className='mt-2' variant="danger" now={90} label="HTML" />
-  <ProgressBar style={{borderRadius: "0%"}} className='mt-2' variant="success" now={75} label="CSS" />
-  <ProgressBar style={{borderRadius: "0%"}} className='mt-2' variant="warning" now={70} label="V JavaScript" />
-  <ProgressBar style={{borderRadius: "0%"}} className='mt-2' variant="info" now={80} label="MERN" />
-  <ProgressBar style={{borderRadius: "0%"}} className='mt-2' variant="info" now={60} label="MEAN" />
-  <ProgressBar style={{borderRadius: "0%"}} className='mt-2' variant="warning" now={55} label="jQuery" />
+  <ProgressBar style={{borderRadius: "0%", height: "40px", fontWeight: 650}} className='mt-2' variant="danger" now={90} label="HTML" />
+  <ProgressBar style={{borderRadius: "0%", height: "40px", fontWeight: 650}} className='mt-2' variant="success" now={75} label="CSS" />
+  <ProgressBar style={{borderRadius: "0%", height: "40px", fontWeight: 650}} className='mt-2' variant="warning" now={70} label="Vanilla Js" />
+  <ProgressBar style={{borderRadius: "0%", height: "40px", fontWeight: 650}} className='mt-2' variant="info" now={80} label="MERN" />
+  <ProgressBar style={{borderRadius: "0%", height: "40px", fontWeight: 650}} className='mt-2' variant="info" now={60} label="MEAN" />
+  <ProgressBar style={{borderRadius: "0%", height: "40px", fontWeight: 650}} className='mt-2' variant="warning" now={55} label="jQuery" />
   </Col>
     </Row>
     <Row style={{ margin: 0, display: "flex", justifyContent: "space-around" }}>
