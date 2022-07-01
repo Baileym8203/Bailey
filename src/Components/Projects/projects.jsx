@@ -28,7 +28,7 @@ return (
     <Row style={{ margin: 0, backgroundColor: "#292929", color: "white" }}>
       <h1
         className="text-center"
-        style={{ marginTop: "100px", fontWeight: 650 }}
+        style={{ marginTop: "125px", fontWeight: 650 }}
       >
         My Favorite Projects
       </h1>

@@ -10,7 +10,7 @@ return (
   <Container
   id="skills"
     fluid
-    style={{ backgroundColor: "#292929", color: "white", marginTop: "150px" }}
+    style={{ backgroundColor: "#292929", color: "white", marginTop: "0px" }}
   >
     <Row style={{ margin: 0, display: "flex", justifyContent: "center" }}>
       <h1
