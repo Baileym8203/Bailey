@@ -1,5 +1,5 @@
 import react from 'react';
-import {Container, Row, Col, Table, Image, Tabs, Tab} from 'react-bootstrap';
+import {Container, Row, Col,Image} from 'react-bootstrap';
 import './skillsaboutme.css'
 import Code from '../../Images/code.png'
 import Problem from '../../Images/problem.png'
@@ -20,14 +20,14 @@ return (
         ------ <span style={{ color: "rgb(175, 77, 20)" }}>In Depth Me</span>{" "}
         ------
       </h4>
-      <Col lg={12} style={{display: "flex", justifyContent: "center"}}>
+      <Col lg={6} style={{display: "flex", justifyContent: "center"}}>
         <Image
           fluid
           style={{ marginTop: "100px", padding: "20px" }}
           src={Code}
         ></Image>
       </Col>
-      <Col className=" Col --about-me text-center" lg={12}>
+      <Col className=" Col --about-me text-center" lg={6} style={{marginTop: "150px"}}>
         <h3>
           {" "}
           ---{" "}
@@ -52,15 +52,15 @@ return (
         </p>
       </Col>
     </Row>
-    <Row style={{ margin: 0, padding: 0,}}>
-      <Col lg={12} style={{display: "flex", justifyContent: "center"}}>
+    <Row style={{ margin: 0, padding: 0, marginBottom: "100px"}}>
+      <Col lg={6} style={{display: "flex", justifyContent: "center"}}>
         <Image
           fluid
           style={{ marginTop: "100px", padding: "20px" }}
           src={Problem}
         ></Image>
       </Col>
-      <Col style={{marginBottom: "25px"}} className=" Col --about-me text-center" lg={12}>
+      <Col style={{marginBottom: "25px", marginTop: "150px"}} className=" Col --about-me text-center" lg={6}>
         <h3>
           {" "}
           ---{" "}

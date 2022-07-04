@@ -196,11 +196,11 @@
 @media all and (max-width: 335px) {
   /* lowest pixel count! */
   .--intro-heading {
-    font-size: 15px;
+    font-size: 17px;
   }
 
   .--intro-cv {
-    font-size: 10px;
+    font-size: 13px;
     top: 380px;
   }
 }

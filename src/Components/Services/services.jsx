@@ -17,7 +17,7 @@ return (
         className="text-center"
         style={{ marginTop: "50px", fontWeight: 650 }}
       >
-        Skills
+        Notable Skills
       </h1>
       <h4 style={{ marginBottom: "100px" }} className="text-center">
         ------ <span style={{ color: "rgb(175, 77, 20)" }}>Experience</span>{" "}
@@ -27,9 +27,13 @@ return (
   <ProgressBar style={{borderRadius: "0%", height: "40px", fontWeight: 650}} className='mt-2' variant="danger" now={90} label="HTML" />
   <ProgressBar style={{borderRadius: "0%", height: "40px", fontWeight: 650}} className='mt-2' variant="success" now={75} label="CSS" />
   <ProgressBar style={{borderRadius: "0%", height: "40px", fontWeight: 650}} className='mt-2' variant="warning" now={70} label="Vanilla Js" />
-  <ProgressBar style={{borderRadius: "0%", height: "40px", fontWeight: 650}} className='mt-2' variant="info" now={80} label="MERN" />
-  <ProgressBar style={{borderRadius: "0%", height: "40px", fontWeight: 650}} className='mt-2' variant="info" now={60} label="MEAN" />
-  <ProgressBar style={{borderRadius: "0%", height: "40px", fontWeight: 650}} className='mt-2' variant="warning" now={55} label="jQuery" />
+  <ProgressBar style={{borderRadius: "0%", height: "40px", fontWeight: 650}} className='mt-2' variant="info" now={80} label="React" />
+  <ProgressBar style={{borderRadius: "0%", height: "40px", fontWeight: 650}} className='mt-2' variant="info" now={65} label="Angular" />
+  <ProgressBar style={{ borderRadius: "0%", height: "40px", fontWeight: 650 }} className='mt-2' variant="warning" now={55} label="jQuery" />
+  <ProgressBar style={{ borderRadius: "0%", height: "40px", fontWeight: 650 }} className='mt-2' variant="danger" now={68} label="Redux" />
+  <ProgressBar style={{ borderRadius: "0%", height: "40px", fontWeight: 650 }} className='mt-2' variant="warning" now={75} label="Node Js" />
+  <ProgressBar style={{ borderRadius: "0%", height: "40px", fontWeight: 650 }} className='mt-2' variant="danger" now={78} label="Express" />
+  <ProgressBar style={{ borderRadius: "0%", height: "40px", fontWeight: 650 }} className='mt-2' variant="warning" now={79} label="Mongo DB" />
   </Col>
     </Row>
     <Row style={{ margin: 0, display: "flex", justifyContent: "space-around" }}>

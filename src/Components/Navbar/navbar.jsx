@@ -13,9 +13,9 @@ return (
     <Navbar.Collapse className="collapse --links-centering" id="basic-navbar-nav">
       <Nav className='mx-auto'>
           <Nav.Link href="/">Intro</Nav.Link>
+          <Nav.Link href="#projects">Projects</Nav.Link>
           <Nav.Link href="#skills">Skills</Nav.Link>
           <Nav.Link href="#about">About</Nav.Link>
-          <Nav.Link href="#projects">Projects</Nav.Link>
          <Nav.Link href="#contact">Contact</Nav.Link>
       </Nav>
     </Navbar.Collapse>

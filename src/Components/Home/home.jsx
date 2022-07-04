@@ -26,9 +26,9 @@ const Home = () => {
           </ParallaxImg>
         </Parallax>
         <Parallax speed={3} style={{ backgroundColor: "white" }}>
-          <Services />
+        <Projects />
+        <Services />
           <SkillsAboutMe />
-         <Projects />
           <Contact />
         </Parallax>
       </ParallaxProvider>
