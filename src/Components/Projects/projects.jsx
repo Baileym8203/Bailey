@@ -58,12 +58,14 @@ return (
           to build the complete server-side and client-side application 
           from scratch. 
         </p>
-        <Button variant="light" className='me-3'>Breakdown!</Button>
-        <a href="https://bestmoviecentral.herokuapp.com/" target="_blank">
+        <a href="https://docs.google.com/document/d/e/2PACX-1vRNs3U4BUezHs7hSYXodr61srsMesVoJdoLowj20ciL96lsapxA8ioxvy3_lqXxz8oDDd_9Qp83yGMh/pub" target="_blank">
+          <Button variant="light" className='me-3'>Breakdown!</Button>
+        </a>
+        <a href="https://bestmoviescentral.netlify.app/" target="_blank">
         <Button variant="light" className=" me-3">See Live!</Button>
         </a>
         <br></br> <br></br>
-        <a href="https://github.com/Baileym8203/movie_api" target="_blank">
+        <a href="https://github.com/Baileym8203/myFlix-client" target="_blank">
         <Button variant="light" className="me-3">See Code!</Button>
         </a>
         <a href="https://github.com/Baileym8203/movie_api" target="_blank">
@@ -93,7 +95,9 @@ return (
               users with login, and allows the user to change a password if forgotten in any 
               circumstances. 
             </Card.Text>
-            <Button className="mb-3" variant="secondary">Breakdown!</Button>
+            <a href="https://docs.google.com/document/d/e/2PACX-1vTqjFpLZpJNqU7AzdCKvYD_4os0bni77McBH43Q7ocJCNCqGnh4hpE_dC3lGTHSI1mvzqPYW7-8BOZc/pub" target="_blank">
+              <Button className="mb-3" variant="secondary">Breakdown!</Button>
+              </a>
             <h3 style={{ fontWeight: 650 }}>Main Tools</h3>
             <Card.Text>React, Firebase, Bootstrap, Recharts, PWA </Card.Text>
             <a href="https://baileym8203.github.io/Visual/" target="_blank">
@@ -115,7 +119,9 @@ return (
               want to know more about. When the name of the Pokemon has been clicked an
               image, height, and type will be given for that specific Pokemon.
             </Card.Text>
-            <Button className="mb-3" variant="secondary">Breakdown!</Button>
+            <a href="https://docs.google.com/document/d/e/2PACX-1vSW8qMXKgjUpUCQVdivsxPzbLSF4NbfvfgxqVbn1PBWWQUhlqA20L5ALtHYRyAKCiQVonaJsmra_LrY/pub" target="_blank">
+              <Button className="mb-3" variant="secondary">Breakdown!</Button>
+              </a>
             <h3 style={{ fontWeight: 650 }}>Main Tools</h3>
             <Card.Text>jQuery, Bootstrap </Card.Text>
             <a href="https://baileym8203.github.io/simple-js-app/" target="_blank">
@@ -139,7 +145,9 @@ return (
               be seen by all other users as well as their locations, and the images
               they send.
             </Card.Text>
-            <Button className="mb-3" variant="secondary">Breakdown!</Button>
+            <a href="https://docs.google.com/document/d/e/2PACX-1vTlVzCvDhBtAoLHUrd7ghVnoNtlf4Cto3qILJ-VIhpsO02cj83uyk7RfRlrGChURQU11PGdqdyMArSv/pub" target="_blank">
+              <Button className="mb-3" variant="secondary">Breakdown!</Button>
+            </a>
             <h3 style={{ fontWeight: 650 }}>Main Tools</h3>
             <Card.Text>React Native, Gifted Chat, Firebase </Card.Text>
             <a href="https://github.com/Baileym8203/hello-world" target="_blank">
@@ -161,7 +169,6 @@ return (
               animations that allow the visitors to be more immersed in the info they need
               for the company!
             </Card.Text>
-            <Button className="mb-3" variant="secondary">Breakdown!</Button>
             <h3 style={{ fontWeight: 650 }}>Main Tools</h3>
             <Card.Text>React, Bootstrap, Node js, AOS, Netlify </Card.Text>
             <a href="https://thirsty-leakey-78068d.netlify.app/" target="_blank">
@@ -184,7 +191,9 @@ return (
               data on the events in that area. They can then set up reminders by clicking on the event
               chosen.
             </Card.Text>
-            <Button className="mb-3" variant="secondary">Breakdown!</Button>
+            <a href="https://docs.google.com/document/d/e/2PACX-1vT-usKLxUWMp-58vZeSX_Wy5vIhkkY6ei2u4GdhNH4Ng1ezZwgEym9T_3zTyH-vS9xI-TO-rI1JN2WE/pub" target="_blank">
+              <Button className="mb-3" variant="secondary">Breakdown!</Button>
+            </a>
             <h3 style={{ fontWeight: 650 }}>Main Tools</h3>
             <Card.Text>React, Bootstrap, Recharts, PWA </Card.Text>
             <a href="https://baileym8203.github.io/meets/" target="_blank">
@@ -207,7 +216,6 @@ return (
               can delete items off the list when they want. They can also cross an
               item off the list when complete.
             </Card.Text>
-            <Button className="mb-3" variant="secondary">Breakdown!</Button>
             <h3 style={{ fontWeight: 650 }}>Main Tools</h3>
             <Card.Text>Vanilla js, Netlify </Card.Text>
             <a href="https://idyllic-choux-548ccd.netlify.app/" target="_blank">
