@@ -49,11 +49,11 @@ return (
         <p>
           Best Movies is a web app created using the MERN tech stack,
           that provides users with access to information about movies, 
-          directors, and genres.Users are able to create an account, 
+          directors, and genres. Users are able to create an account, 
           update their personal data, and create a list of favorite movies.
           Best Movies was a personal project I created as a part of my 
           web development course at CareerFoundry to demonstrate my
-          mastery of full-stack javascript development.The aim of the 
+          mastery of full-stack javascript development. The aim of the 
           project was to have a movie app that all users to see info on the movies they desire. The problem I wanted to solve is 
           to build the complete server-side and client-side application 
           from scratch. 
