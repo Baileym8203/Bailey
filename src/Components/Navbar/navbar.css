@@ -2,7 +2,7 @@
 display: "none"
 }
 
-.--links-centering{
+.--links{
 display: flex;
 text-align: center;
 }

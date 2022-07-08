@@ -1,1 +1,50 @@
+.--Contact {
+    margin: 0px;
+    padding: 0;
+    background-color: #292929;
+}
 
+.--Contact-Header {
+    color: white;
+    margin-top: 100px;
+    font-weight: 650px;
+}
+
+.--Contact-Sub-Heading {
+    color: white;
+}
+
+.--Contact-Form {
+    padding: 100px;
+}
+
+.--Contact-Github {
+    display: flex;
+    justify-content: center;
+}
+
+.--Contact-Github-Image {
+    margin-bottom: 50px;
+    width: 200px;
+    height: 200px;
+}
+
+.--Contact-Tel {
+    display: flex;
+    justify-content: center;
+}
+
+.--Contact-Tel-Link {
+    margin-bottom: 50px;
+}
+
+.--Contact-Linkedin {
+    display: flex;
+    justify-content: center;
+}
+
+.--Contact-Linkedin-Image {
+    width: 200px;
+    height: 200px;
+    margin-bottom: 50px;
+}

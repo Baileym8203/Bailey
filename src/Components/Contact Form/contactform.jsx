@@ -2,9 +2,13 @@ import { useState } from "react";
 import { useForm } from "react-hook-form";
 import { ToastContainer, toast } from "react-toastify";
 import emailjs, { init } from "emailjs-com";
+
+// imports
+
 import "react-toastify/dist/ReactToastify.min.css";
 import './contactform.css'
 
+// imported CSS files
 
 const ContactForm = () => {
   const {

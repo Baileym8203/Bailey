@@ -1,1 +1,133 @@
+/* Start of Favorite Projects */
 
+.--Projects {
+    margin: 0px;
+    padding: 0;
+    justify-Content: space-around;
+}
+
+.--Fav-Projects {
+    padding-bottom: 100px;
+    margin: 0;
+    background-color: #292929;
+    color: white;
+}
+
+.--Fav-Projects-Header {
+    margin-top: 125px;
+    font-weight: 650;
+}
+
+.--Best-Movie-Image {
+    margin-top: 50px;
+    padding: 50px;
+    float: center;
+}
+
+.--Best-Movie-Description {
+    margin-top: 50px;
+    text-align: center;
+}
+
+.--Best-Movie-Header {
+    font-weight: 650;
+    text-align: center;
+    margin-top: 50px; 
+}
+
+.--Best-Movie-Summary {
+    font-weight: 650;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+/* Start Of Other Projects */
+
+.--Other-Projects {
+    margin: 0;
+}
+
+.--Other-Projects-Heading {
+    margin-top: 150px;
+    font-weight: 650;
+}
+
+.--Code-Easy {
+ margin-top: 100px;
+}
+
+.--Code-Easy-Summary {
+    font-weight: 650;
+}
+
+.--Code-Easy-Tools {
+    font-weight: 650;
+}
+
+.--Pokedex {
+    margin-top: 100px;
+}
+
+.--Pokedex-Summary {
+    font-weight: 650;
+}
+
+.--Pokedex-Tools {
+    font-weight: 650;
+}
+
+.--Time-Slip {
+    margin-top: 100px;
+}
+
+.--Time-Slip-Summary {
+    font-weight: 650;
+}
+
+.--Time-Slip-Tools {
+    font-weight: 650;
+}
+
+.--Other-Projects-Two {
+    margin: 0;
+}
+
+.--Nft {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.--Nft-Summary {
+    font-weight: 650;
+}
+
+.--Nft-Tools {
+    font-weight: 650;
+}
+
+.--Meet {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.--Meet-Summary {
+    font-weight: 650;
+}
+
+.--Meet-Tools {
+    font-weight: 650;
+}
+
+.--To-Do {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.--To-Do-Summary {
+    font-weight: 650;
+}
+
+.--To-Do-Tools {
+    font-weight: 650;
+}

@@ -3,7 +3,7 @@
   padding: 0;
 }
 
-.--intro-heading {
+.--Intro-Heading {
   position: absolute;
   font-family: helvetica;
   font-weight: 800;
@@ -13,7 +13,7 @@
   text-shadow: black 3px 3px 20px;
 }
 
-.--intro-cv {
+.--Intro-Cv {
   position: absolute;
   font-family: "helvetica";
   font-weight: 800;
@@ -26,168 +26,168 @@
 
 @media all and (max-width: 1861px) {
   /* highest pixel count! */
-  .--intro-heading {
+  .--Intro-Heading {
     font-size: 90px;
   }
 
-  .--intro-cv {
+  .--Intro-Cv {
     font-size: 45px;
   }
 }
 
 @media all and (max-width: 1675px) {
-  .--intro-heading {
+  .--Intro-Heading {
     font-size: 80px;
   }
 
-  .--intro-cv {
+  .--Intro-Cv {
     font-size: 40px;
   }
 }
 
 @media all and (max-width: 1440px) {
-  .--intro-heading {
+  .--Intro-Heading {
     font-size: 80px;
   }
 
-  .--intro-cv {
+  .--Intro-Cv {
     font-size: 40px;
     top: 800px;
   }
 }
 
 @media all and (max-width: 1489px) {
-  .--intro-heading {
+  .--Intro-Heading {
     font-size: 70px;
   }
 
-  .--intro-cv {
+  .--Intro-Cv {
     font-size: 35px;
   }
 }
 
 @media all and (max-width: 1303px) {
-  .--intro-heading {
+  .--Intro-Heading {
     font-size: 60px;
   }
 
-  .--intro-cv {
+  .--Intro-Cv {
     font-size: 30px;
     top: 800px;
   }
 }
 
 @media all and (max-width: 1150px) {
-  .--intro-heading {
+  .--Intro-Heading {
     font-size: 50px;
   }
 
-  .--intro-cv {
+  .--Intro-Cv {
     font-size: 25px;
     top: 700px;
   }
 }
 
 @media all and (max-width: 950px) {
-  .--intro-heading {
+  .--Intro-Heading {
     font-size: 45px;
   }
 
-  .--intro-cv {
+  .--Intro-Cv{
     font-size: 20px;
     top: 680px;
   }
 }
 
 @media all and (max-width: 850px) {
-  .--intro-heading {
+  .--Intro-Heading {
     font-size: 40px;
   }
 
-  .--intro-cv {
+  .--Intro-Cv {
     font-size: 20px;
     top: 500px;
   }
 }
 
 @media all and (max-width: 744px) {
-  .--intro-heading {
+  .--Intro-Heading {
     font-size: 37px;
   }
 
-  .--intro-cv {
+  .--Intro-Cv {
     font-size: 20px;
     top: 500px;
   }
 }
 
 @media all and (max-width: 688px) {
-  .--intro-heading {
+  .--Intro-Heading {
     font-size: 34px;
   }
 
-  .--intro-cv {
+  .--Intro-Cv {
     font-size: 20px;
     top: 490px;
   }
 }
 
 @media all and (max-width: 632px) {
-  .--intro-heading {
+  .--Intro-Heading {
     font-size: 31px;
   }
 
-  .--intro-cv {
+  .--Intro-Cv {
     font-size: 20px;
     top: 490px;
   }
 }
 
 @media all and (max-width: 577px) {
-  .--intro-heading {
+  .--Intro-Heading {
     font-size: 28px;
   }
 
-  .--intro-cv {
+  .--Intro-Cv {
     font-size: 15px;
     top: 490px;
   }
 }
 
 @media all and (max-width: 571px) {
-  .--intro-cv {
+  .--Intro-Cv {
     top: 405px;
   }
 }
 
 @media all and (max-width: 521px) {
-  .--intro-heading {
+  .--Intro-Heading {
     font-size: 25px;
   }
 
-  .--intro-cv {
+  .--Intro-Cv {
     font-size: 15px;
     top: 405px;
   }
 }
 
 @media all and (max-width: 465px) {
-  .--intro-heading {
+  .--Intro-Heading {
     font-size: 22px;
   }
 
-  .--intro-cv {
+  .--Intro-Cv {
     font-size: 15px;
     top: 405px;
   }
 }
 
 @media all and (max-width: 409px) {
-  .--intro-heading {
+  .--Intro-Heading {
     font-size: 18px;
   }
 
-  .--intro-cv {
+  .--Intro-Cv {
     font-size: 15px;
     top: 395px;
   }
@@ -195,11 +195,11 @@
 
 @media all and (max-width: 335px) {
   /* lowest pixel count! */
-  .--intro-heading {
+  .--Intro-Heading {
     font-size: 17px;
   }
 
-  .--intro-cv {
+  .--Intro-Cv {
     font-size: 13px;
     top: 380px;
   }

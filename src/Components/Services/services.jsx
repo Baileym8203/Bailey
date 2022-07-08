@@ -1,56 +1,62 @@
 import react from 'react';
 import {Container, Col, Row, Image, Accordion, ProgressBar} from 'react-bootstrap';
-import CodeLogo from '../../Images/codeLogo.png'
-import Brush from '../../Images/brush.png'
+
+// imports
+
 import './services.css'
 
+// import CSS
+
+import CodeLogo from '../../Images/codeLogo.png'
+import Brush from '../../Images/brush.png'
+
+// other imports
 
 const Services = () => {
+
 return (
   <Container
+    className='Container --Skills'
   id="skills"
     fluid
-    style={{ backgroundColor: "#292929", color: "white", marginTop: "0px" }}
   >
-    <Row style={{ margin: 0, display: "flex", justifyContent: "center" }}>
+    <Row className='Row --My-Skills'>
       <h1
-        className="text-center"
-        style={{ marginTop: "50px", fontWeight: 650 }}
+        className="h1 text-center --My-Skills-Heading"
       >
         My Skills
       </h1>
-      <h4 style={{ marginBottom: "100px" }} className="text-center">
+      <h4 className="h4 text-center --My-Skills-Sub-Heading">
         ------ <span style={{ color: "rgb(175, 77, 20)" }}>Experience</span>{" "}
         ------
       </h4>
-      <Col lg={12} style={{marginBottom: "100px"}}>
-  <ProgressBar style={{borderRadius: "0%", height: "40px", fontWeight: 650}} className='mt-2' variant="danger" now={90} label="HTML" />
-  <ProgressBar style={{borderRadius: "0%", height: "40px", fontWeight: 650}} className='mt-2' variant="success" now={75} label="CSS" />
-  <ProgressBar style={{borderRadius: "0%", height: "40px", fontWeight: 650}} className='mt-2' variant="warning" now={70} label="Vanilla Js" />
-        <ProgressBar style={{ borderRadius: "0%", height: "40px", fontWeight: 650 }} className='mt-2' variant="info" now={80} label="React" />
-        <ProgressBar style={{borderRadius: "0%", height: "40px", fontWeight: 650}} className='mt-2' variant="info" now={78} label="React-Native" />
-  <ProgressBar style={{borderRadius: "0%", height: "40px", fontWeight: 650}} className='mt-2' variant="info" now={65} label="Angular" />
-  <ProgressBar style={{ borderRadius: "0%", height: "40px", fontWeight: 650 }} className='mt-2' variant="warning" now={57} label="jQuery" />
-  <ProgressBar style={{ borderRadius: "0%", height: "40px", fontWeight: 650 }} className='mt-2' variant="danger" now={68} label="Redux" />
-  <ProgressBar style={{ borderRadius: "0%", height: "40px", fontWeight: 650 }} className='mt-2' variant="warning" now={75} label="Node Js" />
-  <ProgressBar style={{ borderRadius: "0%", height: "40px", fontWeight: 650 }} className='mt-2' variant="danger" now={78} label="Express" />
-  <ProgressBar style={{ borderRadius: "0%", height: "40px", fontWeight: 650 }} className='mt-2' variant="warning" now={79} label="Mongo DB" />
-  <ProgressBar style={{ borderRadius: "0%", height: "40px", fontWeight: 650 }} className='mt-2' variant="success" now={60} label="Jest" />
+      <Col className='Col --My-Skills-Progress' lg={12}>
+  <ProgressBar className='ProgressBar mt-2 --My-Skills-Progress-Bars' variant="danger" now={90} label="HTML" />
+  <ProgressBar className='ProgressBar mt-2 --My-Skills-Progress-Bars' variant="success" now={75} label="CSS" />
+  <ProgressBar className='ProgressBar mt-2 --My-Skills-Progress-Bars' variant="warning" now={70} label="Vanilla Js" />
+        <ProgressBar className='ProgressBar mt-2 --My-Skills-Progress-Bars' variant="info" now={80} label="React" />
+        <ProgressBar className='ProgressBar mt-2 --My-Skills-Progress-Bars' variant="info" now={78} label="React-Native" />
+  <ProgressBar className='ProgressBar mt-2 --My-Skills-Progress-Bars' variant="info" now={65} label="Angular" />
+  <ProgressBar className='ProgressBar mt-2 --My-Skills-Progress-Bars' variant="warning" now={57} label="jQuery" />
+  <ProgressBar className='ProgressBar mt-2 --My-Skills-Progress-Bars' variant="danger" now={68} label="Redux" />
+  <ProgressBar className='ProgressBar mt-2 --My-Skills-Progress-Bars' variant="warning" now={75} label="Node Js" />
+  <ProgressBar className='ProgressBar mt-2 --My-Skills-Progress-Bars' variant="danger" now={78} label="Express" />
+  <ProgressBar className='ProgressBar mt-2 --My-Skills-Progress-Bars' variant="warning" now={79} label="Mongo DB" />
+  <ProgressBar className='ProgressBar mt-2 --My-Skills-Progress-Bars' variant="success" now={60} label="Jest" />
   </Col>
     </Row>
-    <Row style={{ margin: 0, display: "flex", justifyContent: "space-around" }}>
+    <Row className='Row --Services'>
       <h1
-        className="text-center"
-        style={{ marginTop: "100px", fontWeight: 650 }}
+        className="h1 text-center --Services-Heading"
       >
         Services
       </h1>
-      <h4 style={{ marginBottom: "100px" }} className="text-center">
+      <h4 className="h4 text-center --Services-Sub-Heading">
         ------ <span style={{ color: "rgb(175, 77, 20)" }}>What I Do</span>{" "}
         ------
       </h4>
-      <Col lg={3} style={{ justifyContent: "center", marginBottom: "100px" }}>
-        <h4 style={{ marginBottom: "100px" }} className="text-center">
+      <Col className='Col --App-Web-Dev' lg={3}>
+        <h4 className='h4 text-center --App-Web-Dev-Heading'>
           ------{" "}
           <span style={{ color: "rgb(175, 77, 20)" }}>
             App & Web Development
@@ -61,11 +67,11 @@ return (
           <Accordion.Item eventKey="0">
             <Accordion.Header>
               <Image
-                style={{ width: "100%", height: "80%" }}
+                className='Image --App-Web-Dev-Image'
                 src={CodeLogo}
               ></Image>
             </Accordion.Header>
-            <Accordion.Body style={{ color: "black" }}>
+            <Accordion.Body className='Accordian --App-Web-Dev-Image-Summary'>
               I am a front-end web developer that can develop applications in
               tech stacks such as MERN and MEAN. I can also create applications
               using jQuery and vanilla Js if you require it. I can also test and
@@ -76,8 +82,8 @@ return (
         </Accordion>
       </Col>
 
-      <Col lg={3} style={{ marginBottom: "100px" }}>
-        <h4 style={{ marginBottom: "100px" }} className="text-center">
+      <Col className='Col --Web-App-Design' lg={3}>
+        <h4 className="h4 text-center --Web-App-Design-Header">
           ------{" "}
           <span style={{ color: "rgb(175, 77, 20)" }}>Web & App Design</span>{" "}
           ------
@@ -86,11 +92,11 @@ return (
           <Accordion.Item eventKey="0">
             <Accordion.Header>
               <Image
-                style={{ width: "100%", height: "80%" }}
+                className='Image --Web-App-Design-Image'
                 src={Brush}
               ></Image>
             </Accordion.Header>
-            <Accordion.Body style={{ color: "black" }}>
+            <Accordion.Body className='Accordian --Web-App-Design-Summary'>
               I can create mockups and or wireframes of an app that will give the best
               user experiences posible with my insights on UX/UI design. I can also give
               the best contrast ratios for certain color choices with the different

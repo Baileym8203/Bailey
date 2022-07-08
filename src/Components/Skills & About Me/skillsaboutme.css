@@ -1,3 +1,53 @@
-.--about-me{
-margin-top: 125px;
+.--About {
+    margin: 0;
+    padding: 0;
+    margin-bottom: 10px;
+}
+
+.--About-Me {
+    display: flex;
+}
+
+.--About-Me-Header {
+    margin-top: 100px;
+    font-weight: 650;
+}
+
+.--About-Me-Sub-Header {
+    margin-bottom: 50px;
+}
+
+.--Choose-Image-Column {
+    display: flex;
+    justify-content: center;
+}
+
+.--Choose-Code-Image {
+    margin-top: 100px;
+    padding: 20px;
+}
+
+.--Choose-Code {
+    margin-top: 150px;
+}
+
+.--Problem-Solving {
+    margin: 0;
+    padding: 0;
+    margin-bottom: 100px;
+}
+
+.--Problem-Image-Column {
+    display: flex;
+    justify-content: center;
+}
+
+.--Problem-Solving-Image {
+    margin-top: 100px;
+    padding: 20px;
+}
+
+.--Problem-Solving-Text  {
+    margin-bottom: 25px;
+    margin-top: 150px;
 }

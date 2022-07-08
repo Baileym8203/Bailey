@@ -1,33 +1,41 @@
 import react from 'react';
 import {Container, Row, Col,Image} from 'react-bootstrap';
+
+// imports
+
 import './skillsaboutme.css'
+
+// import CSS
+
 import Code from '../../Images/code.png'
 import Problem from '../../Images/problem.png'
+
+// other imports
+
 const SkillsAboutMe = () => {
 
 const now = 60
 
 return (
-  <Container id="about" fluid style={{ margin: 0, padding: 0, marginBottom: "10px" }}>
-    <Row style={{ display: "flex"}}>
+  <Container className='Container --About' id="about" fluid>
+    <Row className='Row --About-Me'>
       <h1
-        className="text-center"
-        style={{ marginTop: "100px", fontWeight: 650 }}
+        className="h1 text-center --About-Me-Header"
       >
         About Me
       </h1>
-      <h4 className="text-center" style={{ marginBottom: "50px" }}>
+      <h4 className="h4 text-center --About-Me-Sub-Header">
         ------ <span style={{ color: "rgb(175, 77, 20)" }}>In Depth Me</span>{" "}
         ------
       </h4>
-      <Col lg={6} style={{display: "flex", justifyContent: "center"}}>
+      <Col className='Col --Choose-Image-Column' lg={6}>
         <Image
+          className='--Choose-Code-Image'
           fluid
-          style={{ marginTop: "100px", padding: "20px" }}
           src={Code}
         ></Image>
       </Col>
-      <Col className=" Col --about-me text-center" lg={6} style={{marginTop: "150px"}}>
+      <Col className=" Col text-center --Choose-Code" lg={6}>
         <h3>
           {" "}
           ---{" "}
@@ -52,15 +60,15 @@ return (
         </p>
       </Col>
     </Row>
-    <Row style={{ margin: 0, padding: 0, marginBottom: "100px"}}>
-      <Col lg={6} style={{display: "flex", justifyContent: "center"}}>
+    <Row className='Row --Problem-Solving'>
+      <Col className='Col --Problem-Image-Column' lg={6}>
         <Image
+          className='Image --Problem-Solving-Image'
           fluid
-          style={{ marginTop: "100px", padding: "20px" }}
           src={Problem}
         ></Image>
       </Col>
-      <Col style={{marginBottom: "25px", marginTop: "150px"}} className=" Col --about-me text-center" lg={6}>
+      <Col className=" Col text-center --Problem-Solving-Text" lg={6}>
         <h3>
           {" "}
           ---{" "}

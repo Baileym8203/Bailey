@@ -10,7 +10,7 @@ return (
   variant="dark" expand="lg">
   <Container fluid style={{display: "flex", justifyContent: "flex-end"}}>
     <Navbar.Toggle aria-controls="basic-navbar-nav" />
-    <Navbar.Collapse className="collapse --links-centering" id="basic-navbar-nav">
+    <Navbar.Collapse className="collapse --Links" id="basic-navbar-nav">
       <Nav className='mx-auto'>
           <Nav.Link href="/">Intro</Nav.Link>
           <Nav.Link href="#projects">Projects</Nav.Link>

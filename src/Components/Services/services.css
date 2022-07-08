@@ -1,0 +1,85 @@
+
+/* start of skills */
+
+.--Skills {
+    background-color: #292929;
+    color: white;
+    margin-top: 0px;
+}
+
+.--My-Skills {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+}
+
+.--My-Skills-Heading {
+    margin-top: 50px;
+    font-weight: 650;
+}
+
+.--My-Skills-Sub-Heading {
+    margin-bottom: 100px;
+}
+
+.--My-Skills-Progress {
+    margin-bottom: 100px;
+}
+
+.--My-Skills-Progress-Bars {
+    border-radius: 0%;
+    height: 40px;
+    font-weight: 650;
+}
+
+/* start of services */
+
+.--Services {
+    margin: 0;
+    display: flex;
+    justify-content: space-around;
+}
+
+.--Services-Heading {
+    margin-top: 100px;
+    font-weight: 650;
+}
+
+.--Services-Sub-Heading {
+    margin-bottom: 100px;
+}
+
+.--App-Web-Dev {
+    justify-content: center;
+    margin-bottom: 100px;
+}
+
+.--App-Web-Dev-Heading {
+    margin-bottom: 100px;
+}
+
+.--App-Web-Dev-Image {
+    width: 100%;
+    height: 80%;
+}
+
+.--App-Web-Dev-Image-Summary {
+    color: black;
+}
+
+.--Web-App-Design {
+    margin-bottom: 100px;
+}
+
+.--Web-App-Design-Header {
+    margin-top: 100px;
+}
+
+.--Web-App-Design-Image {
+    width: 100%;
+    height: 80%;
+}
+
+.--Web-App-Design-Summary {
+    color: black;
+}
