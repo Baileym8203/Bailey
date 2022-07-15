@@ -14,6 +14,8 @@ import SkillsAboutMe from '../Skills & About Me/skillsaboutme';
 import Contact from '../Contact/contact';
 import Services from '../Services/services';
 import Resume from '../../Bailey_Mashore_Resume.PDF'
+import must from '../../Images/must4.jpg'
+
 
 // other imported files
 
